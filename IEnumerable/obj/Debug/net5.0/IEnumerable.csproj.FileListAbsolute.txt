@@ -1,0 +1,16 @@
+C:\Users\Victo\Desktop\Proyectos 2022\LinQ\IEnumerable\IEnumerable\bin\Debug\net5.0\IEnumerable.exe
+C:\Users\Victo\Desktop\Proyectos 2022\LinQ\IEnumerable\IEnumerable\bin\Debug\net5.0\IEnumerable.deps.json
+C:\Users\Victo\Desktop\Proyectos 2022\LinQ\IEnumerable\IEnumerable\bin\Debug\net5.0\IEnumerable.runtimeconfig.json
+C:\Users\Victo\Desktop\Proyectos 2022\LinQ\IEnumerable\IEnumerable\bin\Debug\net5.0\IEnumerable.runtimeconfig.dev.json
+C:\Users\Victo\Desktop\Proyectos 2022\LinQ\IEnumerable\IEnumerable\bin\Debug\net5.0\IEnumerable.dll
+C:\Users\Victo\Desktop\Proyectos 2022\LinQ\IEnumerable\IEnumerable\bin\Debug\net5.0\ref\IEnumerable.dll
+C:\Users\Victo\Desktop\Proyectos 2022\LinQ\IEnumerable\IEnumerable\bin\Debug\net5.0\IEnumerable.pdb
+C:\Users\Victo\Desktop\Proyectos 2022\LinQ\IEnumerable\IEnumerable\obj\Debug\net5.0\IEnumerable.csproj.AssemblyReference.cache
+C:\Users\Victo\Desktop\Proyectos 2022\LinQ\IEnumerable\IEnumerable\obj\Debug\net5.0\IEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victo\Desktop\Proyectos 2022\LinQ\IEnumerable\IEnumerable\obj\Debug\net5.0\IEnumerable.AssemblyInfoInputs.cache
+C:\Users\Victo\Desktop\Proyectos 2022\LinQ\IEnumerable\IEnumerable\obj\Debug\net5.0\IEnumerable.AssemblyInfo.cs
+C:\Users\Victo\Desktop\Proyectos 2022\LinQ\IEnumerable\IEnumerable\obj\Debug\net5.0\IEnumerable.csproj.CoreCompileInputs.cache
+C:\Users\Victo\Desktop\Proyectos 2022\LinQ\IEnumerable\IEnumerable\obj\Debug\net5.0\IEnumerable.dll
+C:\Users\Victo\Desktop\Proyectos 2022\LinQ\IEnumerable\IEnumerable\obj\Debug\net5.0\ref\IEnumerable.dll
+C:\Users\Victo\Desktop\Proyectos 2022\LinQ\IEnumerable\IEnumerable\obj\Debug\net5.0\IEnumerable.pdb
+C:\Users\Victo\Desktop\Proyectos 2022\LinQ\IEnumerable\IEnumerable\obj\Debug\net5.0\IEnumerable.genruntimeconfig.cache
